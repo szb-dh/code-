@@ -1,0 +1,9 @@
+"","Model","Accuracy"
+"SVM.Accuracy","SVM",0.9351
+"DT.Accuracy","DT",0.9356
+"MLP.Accuracy","MLP",0.9365
+"XGB.Accuracy","XGB",0.8526
+"ENET.Accuracy","ENET",0.9344
+"KNN.Accuracy","KNN",0.9344
+"ADA.Accuracy","ADA",0.9363
+"RIDGE.Accuracy","RIDGE",0.9349
